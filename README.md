@@ -1,2 +1,2 @@
 # RestAssuredSample
-Practice Rest Assured
+Practice Rest Assured with TestNG
