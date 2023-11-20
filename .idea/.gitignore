@@ -4,3 +4,5 @@
 *.log
 /target/
 /build/
+*.tmp
+/temp/
