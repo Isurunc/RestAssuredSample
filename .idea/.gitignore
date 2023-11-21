@@ -4,3 +4,9 @@
 *.log
 /target/
 /build/
+*.tmp
+/temp/
+# IntelliJ IDEA files
+*.iml
+.idea/
+

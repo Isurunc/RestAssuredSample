@@ -26,6 +26,5 @@ public class ExtractExample {
         // Extracting a specific value using JSONPath
         String title = response.path("title");
         System.out.println("Title: " + title);
-
     }
 }
